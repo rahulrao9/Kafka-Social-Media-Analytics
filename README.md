@@ -75,7 +75,7 @@ Calculate the popularity of a user based on the number of likes, shares, and com
 [Apache Kafka.js]: https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka
 [kafka-url]: https://kafka.apache.org/
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/pranav-ambig/YADLTS/blob/main/MIT-LICENSE.txt
+[license-url]: https://github.com/rahulrao9/Kafka-Social-Media-Analytics/blob/main/LICENSE
 [Python.js]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org
 [Ubuntu.js]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
