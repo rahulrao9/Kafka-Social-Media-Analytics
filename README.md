@@ -32,7 +32,7 @@ python3 kafka-consumer3.py topicName1 topicName2 topicName3 > output3.json
 ```
 4. Run the producer in a separate terminal:
 ```bash
-cat student_dataset.txt | python3 kafka-producer.py topicName1 topicName2 topicName3
+cat dataset.txt | python3 kafka-producer.py topicName1 topicName2 topicName3
 ```
 
 ## Client Specific Outputs
