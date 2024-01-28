@@ -7,7 +7,7 @@ This project involves using Kafka's producer and consumer APIs to analyze a soci
 [![Apache Kafka][Apache Kafka.js]][kafka-url]
 [![Python][Python.js]][Python-url]
 [![Ubuntu][Ubuntu.js]][Ubuntu-url]
-Python 3.x
+\n Python 3.x
 Kafka-Python library
 
 ## Project Structure
