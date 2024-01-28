@@ -15,7 +15,6 @@ This project involves using Kafka's producer and consumer APIs to analyze a soci
 * kafka-consumer1.py: Consumer script for Client 1 - Comments on posts.
 * kafka-consumer2.py: Consumer script for Client 2 - Number of likes on posts.
 * kafka-consumer3.py: Consumer script for Client 3 - User popularity calculation.
-* student_dataset.txt: Sample input dataset for testing.
 
 ## How to Run
 1. Start Kafka server.
