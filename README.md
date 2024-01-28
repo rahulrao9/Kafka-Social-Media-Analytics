@@ -17,7 +17,7 @@ This project involves using Kafka's producer and consumer APIs to analyze a soci
 * kafka-consumer3.py: Consumer script for Client 3 - User popularity calculation.
 * student_dataset.txt: Sample input dataset for testing.
 
-##How to Run
+## How to Run
 1. Start Kafka server.
 2. Create three Kafka topics (replace topicName1, topicName2, topicName3 with actual topic names):
 
