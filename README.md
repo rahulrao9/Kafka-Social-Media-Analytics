@@ -39,7 +39,7 @@ cat dataset.txt | python3 kafka-producer.py topicName1 topicName2 topicName3
 * Client 1
 List down all the comments received on posts for all users.
 
-```json
+```sh
 {
     "@username1" : [
         "comment1",
@@ -54,7 +54,7 @@ List down all the comments received on posts for all users.
 ```
 * Client 2
 List down the number of likes received on different posts for each user.
-```
+```sh
 {
     "@username1" : {
         "post-id-1" : no_of_likes,
@@ -65,7 +65,7 @@ List down the number of likes received on different posts for each user.
 ```
 * Client 3
 Calculate the popularity of a user based on the number of likes, shares, and comments on the user’s profile.
-```
+```sh
 {
     "@username_1": popularity,
     "@username_2": popularity,
